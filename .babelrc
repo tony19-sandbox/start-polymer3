@@ -1,0 +1,7 @@
+{
+  "compact": "true",
+  "plugins": [
+    "minify-template-strings",
+    "syntax-dynamic-import"
+  ]
+}
