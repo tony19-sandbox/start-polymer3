@@ -15,6 +15,6 @@
     "babel-plugin-syntax-dynamic-import": "^6.18.0"
   },
   "scripts": {
-    "build": "polymer build && $(npm bin)/babel build/**/src/**/*.js -d ."
+    "build": "polymer build && $(npm bin)/babel build/**/src/**/*.js -d . --ignore **/node_modules/**"
   }
 }
