@@ -1,4 +1,6 @@
-# Start Polymer 3.0 
+> Demo for https://stackoverflow.com/questions/49602961/polymer-component-template-minification
+
+# Start Polymer 3.0
 
 A simple Polymer 3.0 demo app. See it deployed at [start-polymer3.firebaseapp.com](https://start-polymer3.firebaseapp.com).
 
