@@ -1,0 +1,1 @@
+import{PolymerElement,html}from"../node_modules/@polymer/polymer/polymer-element.js";class LazyElement extends PolymerElement{static get template(){return`<p>You like pie.</p>`;}}customElements.define("lazy-element",LazyElement);
