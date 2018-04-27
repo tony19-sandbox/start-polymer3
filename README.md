@@ -67,7 +67,7 @@ To build the app:
 
 ```
 yarn install --flat
-polymer build
+yarn build
 ```
 
 The build is output to `build/es6-unbundled`. 
